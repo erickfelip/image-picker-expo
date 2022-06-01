@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "launch-camera",
+    "slug": "launch-camera",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "launch-camera"
+}
